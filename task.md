@@ -1,7 +1,11 @@
-- проверьте, что сайте хорошо работает и не съезжает верстка на ширине окна 430px и 768px
-воспользуйтесь media queries.
+### Задание:
 
-- поменяйте фон сайта на этих значениях на градиенты: `https://uigradients.com/#Html`
+- Сверстайте страницу максимально приближенно к макету: `https://www.figma.com/design/eKULbGIF2VagQrd4XUikhp/Berlin.de?node-id=4-2&t=CVcIFEX8ZARC9pt0-1`
 
-- добавьте favicon оп вкусу - воспользуйтесь генератором или emoji.
+- Используйте в работе: grid, flexbox, position.
+
+- Иконки подключаются с помощью `https://fontawesome.com/`
+
+- `https://www.berlin.de/tourismus/` - вы можете посмотреть оригинал проекта по этой ссылке
+
 
