@@ -160,7 +160,9 @@ console.log(magician);
 
 // * reduce()
 // не мутирующий
-// считаем сумму всех возрастов братьев
+// используется для поочередных операций с элементами массива
+// чаще всего это числовое или строковое значения
+
 let sum = 0;
 
 for (let i = 0; i < brothersAges.length; i++) {
@@ -176,6 +178,6 @@ console.log(sum);
 // к первому мы добавляем второе на каждой итерации
 
 console.log(brothersAges);
-let sum2 = brothersAges.reduce((acc, current) => acc + current, 0);
+let sum2 = brothersAges.reduce((acc, current) => acc + current, 1000);
 
 console.log(sum2);
