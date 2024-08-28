@@ -8,7 +8,7 @@
 также заберите weathercode - он вам понадобится
 
 3. напишите функцию расшифровщик для кода погоды
-информацию возьмите в документации `api.open-meteo.com`
+информацию возьмите в документации `[api.open-meteo.com](https://open-meteo.com/en/docs)`
 выведите данные на странице, используйте current_weather_units
 для расшифровки можно использовать синтаксис if / else или switch / case `https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch`
 
